@@ -1,8 +1,6 @@
 # DBMS--Weather-Observation-Station
 Weather Registration and Observation System
 
-Got it! Here's an updated version of the README tailored to your local host setup:
-
 ---
 
 ### Weather Observation System

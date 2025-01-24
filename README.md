@@ -14,6 +14,7 @@ The Weather Observation System is a PHP-based web application designed to manage
 - **Add Stations:** Use `index.php` to add new weather stations with details like city, weather state, latitude, and longitude.
 - **Preloaded Data:** Includes 10 sample weather station entries preloaded into the SQLite database (`weather.db`) for testing.
 - **Search Stations:** Use `search.php` to filter weather stations by various attributes.
+- **Distance Calculations:** Select two stations to calculate Euclidean and Manhattan distances.
 - **Local Database Management:** Stores all weather station data in an SQLite database for lightweight performance on local setups.
 
 ---
@@ -47,7 +48,6 @@ The Weather Observation System is a PHP-based web application designed to manage
 ---
 
 #### Future Enhancements
--Distance calculation(Eucideam distance, Manhattan distance,..)
 - Integration with live weather data APIs.
 - User authentication for restricted access and secure data management.
 - Enhanced search filters and data visualization features.
